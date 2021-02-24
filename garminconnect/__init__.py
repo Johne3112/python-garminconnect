@@ -10,7 +10,7 @@ from .__version__ import __version__
 
 BASE_URL = 'https://connect.garmin.com'
 SSO_URL = 'https://sso.garmin.com/sso'
-MODERN_URL = 'https://connect.garmin.com/modern'
+MODERN_URL = 'https://connect.garmin.com'
 SIGNIN_URL = 'https://sso.garmin.com/sso/signin'
 
 
